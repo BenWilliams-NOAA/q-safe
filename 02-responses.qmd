@@ -1,11 +1,13 @@
 ## Responses to SSC and Plan Team Comments on Assessments in General
 
-> "The SSC requests that all authors fill out the risk table in 2019…" (SSC December 2018)  
+<!-- SSC and Plan Team comments and recommendations should be reviewed by all authors. Recommendations specific to groundfish assessments are generally made during the September/October and November/December meetings. Recommendations can be found in the Plan Team and SSC reports to the Council on the Council website. Plan Team reports can be accessed at: https://meetings.npfmc.org/. Click on Plan Teams and the appropriate meeting dates. This takes you to the eAgenda, and the Plan Team reports are listed at the end of the eAgenda. The SSC minutes can be found at https://www.npfmc.org/library/meeting-minutes/.  -->
 
-A risk table has been included in this assessment.
+
+<!-- Responses to SSC and Plan Team comments on assessments in general (for each comment that is addressed in the main text, list comment, and reference the section where it is discussed). If the SSC or Plan Team did not make any comments on assessments in general, say so. If the author does not have the capacity to address general assessment recommendations specific to their stock note which general recommendations are outstanding. -->
+
 
 ## Responses to SSC and Plan Team Comments Specific to this Assessment
 
-> "For this cycle, the SSC also agrees with the author’s justification for the adjustment of the likelihood weight of the survey index to utilize this new time series more appropriately."
+<!-- Responses to SSC and Plan Team comments specific to this assessment (for each comment that is addressed in the main text, list comment and reference the section where it is discussed). If the SSC or Plan Team did not make any comments specific to this assessment, say so.   -->
 
-The likelihood weighting has remained consistent with the weights found in the last full assessment.
+<!-- For update assessments, authors should include all outstanding recommendations and comments made including those from the last assessment cycle. It is the author’s discretion to address these recommendations or defer until the next full assessment.  -->

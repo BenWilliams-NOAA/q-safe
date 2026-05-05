@@ -1,9 +1,12 @@
 # Introduction
 
-Scientific name
+<!-- Scientific name
 Description of general biology and distribution
 Description of key life history characteristics specific to stock assessments (e.g., special features of reproductive biology)
-Evidence of stock structure, if any
+Evidence of stock structure, if any, and if available reference the stock structure template  -->
+
+<!-- For update assessments, reference the last full operational stock assessment for the full description of the general biology and life history. 
+Include abbreviated text highlighting relevant information for making management decisions. -->
 
 
 ## Biology and Distribution

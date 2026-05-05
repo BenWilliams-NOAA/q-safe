@@ -1,4 +1,14 @@
 # Analytical approach
+<!-- Description of overall modeling approach (e.g., age/size structured versus biomass dynamic, maximum likelihood versus Bayesian)
+If standardized software (e.g., Stock Synthesis) is used, give reference to technical documentation where variables and equations are described.  If standardized software is not used, then list variables and equations used in the assessment model(s) in tables or appendices as appropriate.
+Note if there was a transition to new software (e.g. ADMB to TMB or another modeling framework), provide a link to that analysis, which should present side-by-side comparisons of both data likelihood components and model parameter estimates in the results, and the percent differences.
+Document data weighting methods used in the assessment.  -->
+
+<!-- Update models:
+
+Include a description of the base model included in the assessment, including a reference to the last full operational assessment when the base model was used for management advice.
+Documentation of any minor modeling changes to the previously accepted model used for management. -->
+
 
 ## General Model Structure
 >Description of overall modeling approach (e.g., age/size structured versus biomass dynamic, maximum likelihood versus Bayesian)

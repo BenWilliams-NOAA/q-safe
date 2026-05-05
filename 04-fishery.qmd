@@ -1,12 +1,19 @@
 # Fishery and Management History
 
-Brief description of fishery history  
+<!-- Brief description of fishery history  
 Description of management measures/unit(s)   
-Management history (including key changes which may have influenced assessment procedures; selectivity of commercial fishing gear; or distribution of catch by gear, area, or season.  
+Management history - including key changes which may have influenced assessment procedures; selectivity of commercial fishing gear; or distribution of catch by gear, area, or season.  
 Include a table of total catch, total ABC, total OFL, and total TAC, and associated management measures  
 Description of the current directed fishery (including gear types, seasons, major fishing locations)  
 Description of effort and CPUE  
-Information on discards of this stock or stock complex (from directed fishery for this stock or stock complex)  
+Information on discards of this stock or stock complex (from directed fishery for this stock or stock complex)   -->
+
+<!-- Upate models:
+
+Reference the last full operational stock assessment for the full description of fishery history noting any significant recent changes to the fishery (including gear types, seasons, locations) or management measures.
+Include a table with the time series of total catch, total ABC, total OFL, and total TAC, and associated management measures.
+Reference the last full operational stock assessment  for information on discards of this stock or stock complex (from directed fishery for this stock or stock complex). Provide text on updated information on discards and note any significant changes. -->
+
 
 ## Description of the Directed Fishery
 
