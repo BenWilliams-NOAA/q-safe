@@ -1,6 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/Experimental-red)
 
-Tester quarto template "should" be able to generate a quarto template for a NPFMC SAFE report  
+Quarto template that should be able to generate a quarto template for a NPFMC SAFE report  
 In the `terminal` type:  
 `quarto use template BenWilliams-NOAA/q-safe` 
 
