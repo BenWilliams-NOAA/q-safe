@@ -49,11 +49,13 @@ This report may be cited as:
 Authors, Year. Title. North Pacific Fishery Management Council, Anchorage, AK. Available from https://www.npfmc.org/library/safe-reports/
 
 ::: {.content-visible when-format="pdf"}
-\textit{This information is distributed solely for the purpose of pre-dissemination peer review under applicable information quality guidelines. It has not been formally disseminated by the National Marine Fisheries Service and should not be construed to represent any agency determination or policy.}
+\textit{This information is distributed solely for the purpose of pre-dissemination peer review under applicable information quality guidelines. 
+It has not been formally disseminated by the National Marine Fisheries Service and should not be construed to represent any agency determination or policy.}
 :::
 
 ::: {.content-visible unless-format="pdf"}
-*This information is distributed solely for the purpose of pre-dissemination peer review under applicable information quality guidelines. It has not been formally disseminated by the National Marine Fisheries Service and should not be construed to represent any agency determination or policy.*
+*This information is distributed solely for the purpose of pre-dissemination peer review under applicable information quality guidelines. 
+It has not been formally disseminated by the National Marine Fisheries Service and should not be construed to represent any agency determination or policy.*
 :::
 
 
